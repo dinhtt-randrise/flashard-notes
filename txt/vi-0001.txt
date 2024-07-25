@@ -1,0 +1,16 @@
+Lucene là phần mềm mã nguồn mở, dùng để phân tích, đánh chỉ mục và tìm kiếm thông tin với hiệu suất cao bằng Java. Lucene được phát triển đầu tiên bởi Doug Cutting được giới thiệu đầu tiên vào tháng 8 năm 2000. Tháng 9 năm 2001 Lucene gia nhập vào tổ chức Apache và hiện tại được Apache phát triển và quản lý. Cần lưu ý rằng Lucene không phải là một ứng dụng mà chỉ là một công cụ đặc tả API cần thiết cho việc một search engine. Được xây dựng và thiết kế theo hướng hướng đối tượng nên các API cũng được cung cấp theo dạng hướng đối tượng. Mặc dù thiết kế và xây dựng ban đầu từ java nhưng hiện nay cũng đã có một số phiên bản cho các ngôn ngữ khác: .NET, C++, Perl, ….
+
+[ Những sản phẩm sử dụng Lucene ]
+
+Beagle dùng một nhánh của Lucene phát triển trong C#, có tên gọi Lucene.Net làm chỉ mục.
+Docco dùng Lucene trong việc tìm kiếm trong máy tính cá nhân.
+CNET dùng Lucene để tìm kiếm danh sách thể loại sản phẩm.
+LjFind dùng Lucene để tìm kiếm hơn 110.000.000 bài post ở LiveJournal.
+Nutch là một máy tìm kiếm dùng Lucene.
+Red-Piranha cũng là một máy tìm kiếm khác dựa trên Lucene; dễ sử dụng dưới dạng giao diện đồ họa, dấu nhắc lệnh hoặc ứng dụng web Tomcat, và có khả năng "học" các nhu cầu tìm kiếm của người dùng.
+Wikipedia dùng Lucene để tìm kiếm nội dung toàn bộ văn bản.
+Trình duyệt web Flock dùng Clucene, một phiên bản trong C++, để tìm kiếm toàn văn hoặc tìm kiếm lịch sử của trình duyệt.
+Zimbra groupware dùng Lucene.
+Ants P2P dùng Lucene trong lựa chọn tìm kiếm trong chương trình chia sẻ file khuyết danh của nó.
+Solr một máy chủ tìm kiếm nguồn mở dựa trên Lucene với XML/HTTP APIs, lưu trữ (cache), sao chép, và một giao diện web admin.
+LIRE - Lucene Image Retrieval Thư viện CBIR, dùng máy tìm kiếm Lucene
